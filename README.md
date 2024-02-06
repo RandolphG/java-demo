@@ -27,7 +27,7 @@ Follow these steps to set up the application:
 
 1. Clone the repository:
 
-```https://git.autodesk.com/A360Social/fusion-learning-gordonr.git```
+```https://github.com/RandolphG/java-demo```
 
 2. Build the application:
 
